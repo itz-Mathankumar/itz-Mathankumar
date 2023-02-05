@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi,
 
-<!--
-**itz-Mathankumar/itz-Mathankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile.  :wave:
 
-Here are some ideas to get you started:
+I am Mathankumar.  :sunglasses:	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to create, build and making new things.   :house_with_garden:	
+
+Feel free to get in touch.   :call_me_hand:	
+
+## Follow me on social media
+
+<a href="" target="_blank">
+<img src="https://github.com/DwinaTech/public-images/blob/main/youtube-icon.png" alt="YouTube logo" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn logo" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://github.com/DwinaTech/public-images/blob/main/facebook-con.png" alt="Facebook logo" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://github.com/DwinaTech/public-images/blob/main/twitter-icon.png" alt="Facebook logo" />
+</a>
